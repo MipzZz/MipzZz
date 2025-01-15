@@ -14,7 +14,7 @@
 ---
 
 ## График моих коммитов
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MipzZz&bg_color=fcfcfc&color=333333&line=aa271c&point=444444&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MipzZz&theme=dark)](https://git.io/streak-stats)
 
 ---
 
